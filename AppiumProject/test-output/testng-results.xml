@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28826" started-at="2020-11-18T07:20:11Z" finished-at="2020-11-18T07:20:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28826" started-at="2020-11-18T07:20:11Z" finished-at="2020-11-18T07:20:40Z">
+      <class name="org.sbn.Sbn_TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.sbn.Sbn_TestClass@1877ab81]" name="setUp" is-config="true" duration-ms="10677" started-at="2020-11-18T07:20:11Z" finished-at="2020-11-18T07:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="changepassTest()[pri:0, instance:org.sbn.Sbn_TestClass@1877ab81]" name="changepassTest" duration-ms="17876" started-at="2020-11-18T07:20:22Z" finished-at="2020-11-18T07:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changepassTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.sbn.Sbn_TestClass@1877ab81]" name="tearDown" is-config="true" duration-ms="223" started-at="2020-11-18T07:20:40Z" finished-at="2020-11-18T07:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.sbn.Sbn_TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
